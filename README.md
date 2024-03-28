@@ -1,6 +1,14 @@
 # Construction Website
 
 This is a construction website built using HTML, CSS, and JavaScript. The website features various sections such as home, about, services, projects, case studies, testimonials, contact, and blogs.
+![image](https://github.com/Vasu657/Construction-Website/assets/120580133/1b4627ff-bec1-4d16-a8cf-788c91c88f13)
+![image](https://github.com/Vasu657/Construction-Website/assets/120580133/0939165c-e439-43cf-a2e4-297c4048c76a)
+![image](https://github.com/Vasu657/Construction-Website/assets/120580133/c360887e-195b-4968-b5ac-7b0b0db8907f)
+![image](https://github.com/Vasu657/Construction-Website/assets/120580133/821c61c9-bd5d-4766-a36d-3c55678c87d9)
+
+
+
+
 
 ## Table of Contents
 
